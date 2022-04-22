@@ -4,7 +4,7 @@
 
     > Go through this notebook to understand person and car detection from a image.
     
-          Colab Notebook : https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?authuser=2#scrollTo=RwIovbpSiLgB
+          [Colab Notebook : ](https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?authuser=2#scrollTo=RwIovbpSiLgB)
     
 ## Different Segments of project.
 
@@ -17,7 +17,7 @@
     
  ### 1. Data Collection
  
-        You can download dataset from here "https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz"
+        You can download dataset from here (https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz)
         
         License: These images are taken from OpenImages. All annotations are licensed under CC BY  4.0 and the images have a CC BY 2.0 license*
         
@@ -75,7 +75,7 @@
 
         > first clone the yolov5 repo and install all requirements.
         
-              !git clone https://github.com/ultralytics/yolov5  # clone
+              !git clone https://github.com/ultralytics/yolov5  
               %cd yolov5
               %pip install -qr requirements.txt
               

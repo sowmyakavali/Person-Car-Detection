@@ -54,6 +54,7 @@
         > Becauze of the data is so imabalanced , i am doing augmentation to make it balanced or near by equal count. Remember do augmentation for only training samples.
         
             augment_for_specific_classes(classes_dict, train_images_path, train_labels_path, countofinstances, augmethodsids)
+            
             countofinstances : How many instances you wanted to increase
             augmethodsids : there are 15 augmentation methods were written so you can give list of integers ranging from 0 to 14
             

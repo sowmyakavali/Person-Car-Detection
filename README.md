@@ -4,7 +4,7 @@
 
     > Go through this notebook to understand person and car detection from a image.
     
-          [Colab Notebook : ](https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?authuser=2#scrollTo=RwIovbpSiLgB)
+          [Colab Notebook : ]  https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?usp=sharing
     
 ## Different Segments of project.
 

@@ -3,8 +3,7 @@
 ### Here I have used YOLOV5 model to detect and classify objects.
 
     > Go through this notebook to understand person and car detection from a image.
-    
-          [Colab Notebook : ]  https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?usp=sharing
+ https://colab.research.google.com/drive/1OF34YigkLjrGq92vSKaxAFLywfZ0mXpx?usp=sharing
     
 ## Different Segments of project.
 
